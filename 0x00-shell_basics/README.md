@@ -1,1 +1,1 @@
-a script that prints the absolute pathname 
+contents list 
