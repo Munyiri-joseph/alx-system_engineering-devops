@@ -1,1 +1,1 @@
-Write a script that deletes all the regular files
+11-directories
